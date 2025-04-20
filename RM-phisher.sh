@@ -2,7 +2,7 @@
 
 
 ##   69phisher 	: 	Automated Phishing Tool
-##   Author 	: 	Rithesh
+##   Author 	: 	Vern
 ##   Version 	: 	1
 ##   Github 	: 	https://github.com/ritheshnayak
 ## Modified version of :
